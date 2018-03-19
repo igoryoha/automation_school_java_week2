@@ -1,11 +1,11 @@
 package edu.ctco.school.exercise6.pack2;
 
-
+import edu.ctco.school.exercise6.pack1.A;
 
 /**
- * Why we can't instantiate class A, even it has public constructor ? class no visibility - only same package?
+ * Why we can't instantiate class A, even it has public constructor ?
  *
- * How to fix it ? move under same package - other options??? like in excersize 4
+ * How to fix it ?
  */
 class B
 {
