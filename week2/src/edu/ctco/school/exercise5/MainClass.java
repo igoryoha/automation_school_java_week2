@@ -1,9 +1,9 @@
 package edu.ctco.school.exercise5;
 
 /**
- * Why we are able to see protected variable i from class X ?
+ * Why we are able to see protected variable i from class X ? //same package visibility
  *
- * What will be printed out, then fixed ?
+ * What will be printed out, then fixed ? printed x2 sout and method
  */
 public class MainClass
 {

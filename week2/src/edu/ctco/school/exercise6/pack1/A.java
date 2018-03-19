@@ -1,8 +1,8 @@
 package edu.ctco.school.exercise6.pack1;
 
-class A
+public  class A
 {
-    public A()
+ public    A()
     {
         //public constructor
     }
